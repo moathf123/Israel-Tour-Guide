@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Israel Tour Guide</string>
+    <string name="restaurant_tab">Restaurant</string>
+    <string name="beaches_tab">Beaches</string>
+    <string name="outdoor_activities_tab">Outdoors</string>
+    <string name="events_tab">Events</string>
+    <string name="dead_sea">Dead Sea</string>
+    <string name="beach_time_info">Day Time</string>
+    <string name="dead_sae">Dead Sea</string>
+    <string name="beach_location">Eilat, Israel</string>
+    <string name="first_concert_time">Thr 11:00pm-03:00am</string>
+    <string name="first_event_name">Night Owl Concert</string>
+    <string name="first_concert_location">Tel-Aviv, Israel</string>
+    <string name="second_event_time">Fri 10:00pm-02:00am</string>
+    <string name="second_event_name">Fire Up</string>
+    <string name="second_event_location">Haifa, Israel</string>
+    <string name="all_day_around">All Day Around</string>
+    <string name="first_outdoors_name">Forest Camp</string>
+    <string name="first_outdoor_location">Yafo, Israel</string>
+    <string name="second_outdoor_name">Hills Camp</string>
+    <string name="frist_res_time">08:00am-08:00pm</string>
+    <string name="second_res_time">08:00am-08:00pm</string>
+    <string name="first_res_name">Big Meal</string>
+    <string name="second_res_name">Fish Meals</string>
+    <string name="third_res_name">Best Food</string>
+    <string name="second_res_location">Jerusalem, Israel</string>
+</resources>
